@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		939A018720C6B510009CC1FA /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939A018620C6B510009CC1FA /* MenuScene.swift */; };
 		93AA311720BEC0B600DE663B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AA311620BEC0B600DE663B /* AppDelegate.swift */; };
 		93AA311D20BEC0B600DE663B /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AA311C20BEC0B600DE663B /* GameScene.swift */; };
 		93AA311F20BEC0B600DE663B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AA311E20BEC0B600DE663B /* GameViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		939A018620C6B510009CC1FA /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
 		93AA311320BEC0B500DE663B /* ColourSwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColourSwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93AA311620BEC0B600DE663B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93AA311C20BEC0B600DE663B /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				93AA311C20BEC0B600DE663B /* GameScene.swift */,
+				939A018620C6B510009CC1FA /* MenuScene.swift */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			files = (
 				93AA311D20BEC0B600DE663B /* GameScene.swift in Sources */,
 				93AA311F20BEC0B600DE663B /* GameViewController.swift in Sources */,
+				939A018720C6B510009CC1FA /* MenuScene.swift in Sources */,
 				93AA313320BEC67600DE663B /* Settings.swift in Sources */,
 				93AA311720BEC0B600DE663B /* AppDelegate.swift in Sources */,
 			);
